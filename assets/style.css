@@ -102,7 +102,9 @@ a:hover{
     color: white;
 }
 
-#work-1{
+
+
+.work #work-1{
     width: 610px;
     height: 200px;
     margin-left: auto;
@@ -115,24 +117,23 @@ a:hover{
 }
 
 #work-1, #work-2, #work-3, #work-4, #work-5{
-    border: 5px black solid;
     display: flex; 
-    flex-shrink: 1;
+    border: 5px black solid;
 }
 
 #work-2, #work-3{
-    display: flex;
-    margin-left: 603px;
+    margin-left: auto;
+    margin-right: 50%;
 }
 
 #work-4{
-    display: flex;
-    margin-left: 50%;
     margin-top: -220px;
 }
 
-#work-5{
+#work-4, #work-5{
     margin-left: 50%;
+    margin-right: auto;
+
 }
 
 
