@@ -32,6 +32,8 @@ header h1 {
     border: 3px solid black;
     width: 283px;
     background-color: rgb(198, 198, 198);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
 }
 
 .banner h2{
@@ -52,13 +54,15 @@ header h1 {
 }
 
 
-header nav ul li{
+nav ul li{
+    position: relative;
     display: flex;
     flex: 1;
     float: left;
 }
 
-header a:link{
+ a:link{
+    position: relative;
     flex: 1;
     padding: 15px;
     margin-left: 50;
@@ -68,7 +72,7 @@ header a:link{
 }
 
 
-header a:hover{
+.header a:hover{
     color: white;
 }
 
@@ -176,19 +180,23 @@ h2{
     color: #9ea7a7;
 }
 
-.contact ul{
+
+#contact h2{
+    margin-top: 200;
+    position: relative;
+    border-right: 3px solid #31343d;
+    padding-right: 10;
+    height: 1000;
+}
+
+ul{
     text-align: center;
     
 } 
 
-.contact h2{
-    margin-top: 200;
-    position: relative;
-    border-right: 3px solid #31343d;
-
-}
-
 nav ul li a:link{
+    position: relative;
+    top: -500;
     text-wrap: balance;
     display: inline;
     font-size: 25px;
@@ -196,8 +204,12 @@ nav ul li a:link{
     flex: 1;
     font-size: 23px;
     color: #9ea7a7;
-
 }
+
+nav ul li a:hover{
+    color: white;
+}
+
 
 footer{
     text-wrap: balance;
