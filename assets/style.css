@@ -102,7 +102,10 @@ a:hover{
     color: white;
 }
 
-
+.bio{
+    text-align: center;
+    text-wrap: balance;
+}
 
 .work #work-1{
     width: 620px;
@@ -120,6 +123,7 @@ a:hover{
     margin: 10px;
     display: flex; 
     border: 5px black solid;
+
 }
 
 #work-2, #work-3{    
@@ -137,6 +141,60 @@ a:hover{
     margin-right: auto;
 
 }
+
+#banner-1{
+    position: relative;
+    border: 1px solid black;
+    width: 100px;
+    color: red;
+    margin-left: 50%;
+    margin-top: -34px;
+    background: blue;
+}
+
+#banner-2{
+    position: relative;
+    border: 1px solid black;
+    width: 100px;
+    color: red;
+    margin-left: 50%;
+    margin-top: -140px;
+    background: blue;
+}
+
+#banner-3{
+    position: relative;
+    border: 1px solid black;
+    width: 100px;
+    color: red;
+    left: -310px;
+    margin-left: 50%;
+    margin-top: -140px;
+    background: blue;
+}
+
+#banner-4{
+    position: relative;
+    border: 1px solid black;
+    width: 100px;
+    color: red;
+    left: -310px;
+    margin-left: 50%;
+    margin-top: 220px;
+    background: blue;
+}
+
+#banner-5{
+    position: relative;
+    border: 1px solid black;
+    width: 100px;
+    color: red;
+    left: -310px;
+    margin-left: 50%;
+    margin-top: -140px;
+    background: blue;
+}
+
 
 
 
