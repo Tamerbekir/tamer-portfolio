@@ -105,29 +105,31 @@ a:hover{
 
 
 .work #work-1{
-    width: 610px;
+    width: 620px;
     height: 200px;
     margin-left: auto;
     margin-right: auto;
 }
 
 #work-2, #work-3, #work-4, #work-5{
-    width: 300px;
+    width: 305px;
     height: 100px;
 }
 
 #work-1, #work-2, #work-3, #work-4, #work-5{
+    margin: 10px;
     display: flex; 
     border: 5px black solid;
 }
 
-#work-2, #work-3{
+#work-2, #work-3{    
     margin-left: auto;
     margin-right: 50%;
 }
 
 #work-4{
-    margin-top: -220px;
+    margin: 10px;
+    margin-top: -240px;
 }
 
 #work-4, #work-5{
