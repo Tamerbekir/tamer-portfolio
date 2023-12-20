@@ -103,8 +103,13 @@ a:hover{
 }
 
 .bio{
+    margin-top: -50;
     text-align: center;
     text-wrap: balance;
+}
+
+.work, #banner-1, #banner-2, #banner-3, #banner-4, #banner-5{
+    margin-top: -60px;
 }
 
 .work #work-1{
@@ -113,6 +118,7 @@ a:hover{
     margin-left: auto;
     margin-right: auto;
 }
+
 
 #work-2, #work-3, #work-4, #work-5{
     width: 305px;
@@ -196,6 +202,14 @@ a:hover{
 }
 
 
+h2{
+    flex: 2;
+    display: flex;
+    color: #31343d;
+    margin-left: auto;
+    margin: 50px;
+    padding-left: 200px;
+}
 
 
 
