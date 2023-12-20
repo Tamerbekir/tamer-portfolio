@@ -103,7 +103,7 @@ a:hover{
 }
 
 .bio{
-    margin-top: -50;
+    margin-top: -90;
     text-align: center;
     text-wrap: balance;
 }
@@ -203,18 +203,29 @@ a:hover{
 
 
 h2{
-    flex: 2;
-    display: flex;
+    position: relative;
     color: #31343d;
-    margin-left: auto;
-    margin: 50px;
-    padding-left: 200px;
+    margin: 70px;
+    margin-left: 15%;
+    font-size: 30px;
 }
 
 
 
+.contact ul li{
+    text-wrap: balance;
+    display: inline;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 
+}
 
+.contact ul{
+    text-align: center;
+    margin-top: 25px;
+    margin-left: 40px;
+
+}
 
 footer{
     text-wrap: balance;
