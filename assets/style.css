@@ -111,57 +111,34 @@ a:hover{
 
 }
 
-#banner-1{
+#banner-1, #banner-2, #banner-3, #banner-4, #banner-5{
     position: relative;
     border: 1px solid black;
     width: 100px;
     color: red;
     margin-left: 50%;
-    margin-top: -34px;
     background: blue;
 }
 
-#banner-2{
-    position: relative;
-    border: 1px solid black;
-    width: 100px;
-    color: red;
-    margin-left: 50%;
+#banner-2, #banner-3, #banner5{
     margin-top: -140px;
-    background: blue;
 }
 
-#banner-3{
-    position: relative;
-    border: 1px solid black;
-    width: 100px;
-    color: red;
+#banner-3, #banner-4, #banner-5{
     left: -310px;
-    margin-left: 50%;
-    margin-top: -140px;
-    background: blue;
+}
+
+#banner-1{
+    margin-top: -34px;
 }
 
 #banner-4{
-    position: relative;
-    border: 1px solid black;
-    width: 100px;
-    color: red;
-    left: -310px;
-    margin-left: 50%;
     margin-top: 220px;
-    background: blue;
 }
 
+/* Margin top does not work when linked with other banners. Will look in to. */
 #banner-5{
-    position: relative;
-    border: 1px solid black;
-    width: 100px;
-    color: red;
-    left: -310px;
-    margin-left: 50%;
-    margin-top: -140px;
-    background: blue;
+    margin-top: -140px; 
 }
 
 
