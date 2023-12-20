@@ -1,0 +1,155 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body { 
+    background-color: rgb(198, 198, 198);
+}
+
+Header {
+    display: flex;
+    flex: 1;
+    background-color: #31343d;
+}
+
+header h1 {
+    display: flex;
+    width: 47%;  
+    margin: 10px;
+    margin-left: 20px;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #9ea7a7;
+}
+
+.banner h2{
+    display: flex;
+    color: black;
+    font-size: 35px;
+    margin-top: -84px;
+    margin-left: 1129px;
+}
+
+
+.banner img{
+    display:flex;
+    width: 100%;
+    height: 130px;
+    margin-bottom: 2%;
+    border-bottom: 5px solid rgb(220, 183, 179);
+}
+
+
+header nav ul li{
+    display: flex;
+    flex: 1;
+    float: left;
+}
+
+
+
+a:link{
+    flex: 1;
+    padding: 15px;
+    margin-left: 50;
+    font-size: 23px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #9ea7a7;
+}
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body { 
+    background-color: rgb(198, 198, 198);
+}
+
+Header {
+    display: flex;
+    flex: 1;
+    background-color: #31343d;
+}
+
+header h1 {
+    display: flex;
+    width: 47%;  
+    margin: 10px;
+    margin-left: 20px;
+    font-size: 40px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #9ea7a7;
+}
+
+header nav ul li{
+    display: flex;
+    flex: 1;
+    float: left;
+}
+
+
+a:link{
+    flex: 1;
+    padding: 15px;
+    margin-left: 50;
+    font-size: 23px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #9ea7a7;
+}
+
+a:hover{
+    color: white;
+}
+
+#work-1{
+    width: 610px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#work-2, #work-3, #work-4, #work-5{
+    width: 300px;
+    height: 100px;
+}
+
+#work-1, #work-2, #work-3, #work-4, #work-5{
+    border: 5px black solid;
+    display: flex; 
+    flex-shrink: 1;
+}
+
+#work-2, #work-3{
+    display: flex;
+    margin-left: 603px;
+}
+
+#work-4{
+    display: flex;
+    margin-left: 50%;
+    margin-top: -220px;
+}
+
+#work-5{
+    margin-left: 50%;
+}
+
+
+
+
+
+
+
+footer{
+    text-wrap: balance;
+    text-align: center;
+    margin-top: 80px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-bottom: 50px;
+}
+
+
+
+
+
