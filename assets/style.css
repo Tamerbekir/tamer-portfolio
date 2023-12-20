@@ -47,8 +47,6 @@ header nav ul li{
     float: left;
 }
 
-
-
 a:link{
     flex: 1;
     padding: 15px;
@@ -57,55 +55,20 @@ a:link{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: #9ea7a7;
 }
-* {
-    margin: 0%;
-    padding: 0%;
-}
 
-body { 
-    background-color: rgb(198, 198, 198);
-}
-
-Header {
-    display: flex;
-    flex: 1;
-    background-color: #31343d;
-}
-
-header h1 {
-    display: flex;
-    width: 47%;  
-    margin: 10px;
-    margin-left: 20px;
-    font-size: 40px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: #9ea7a7;
-}
-
-header nav ul li{
-    display: flex;
-    flex: 1;
-    float: left;
-}
-
-
-a:link{
-    flex: 1;
-    padding: 15px;
-    margin-left: 50;
-    font-size: 23px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: #9ea7a7;
-}
 
 a:hover{
     color: white;
 }
 
 .bio{
-    margin-top: -90;
-    text-align: center;
+    position: relative;
+    margin-top: -70;
+    margin-left: auto;
+    margin-right: 380;
+    width: 50%;
     text-wrap: balance;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 .work, #banner-1, #banner-2, #banner-3, #banner-4, #banner-5{
@@ -208,6 +171,7 @@ h2{
     margin: 70px;
     margin-left: 15%;
     font-size: 30px;
+    padding-left: 50;
 }
 
 
