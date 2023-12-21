@@ -23,7 +23,9 @@ THEN I am presented with a responsive layout that adapts to my viewport<br>
 This is a portfolio that includes the works/projects of Tamer Bekir. This site includes the current, as well as future links to upcoming projects. So far, there is only an active image that directs the user to the first project. It also holds navigational links that will take you directly to said links- these links will then take you to the correct sites. This page includes Tamer's contact information, such as email, social media account(s), GitHub, and a downloadable resume that can be saved directly to a machine. All images have been credited below. 
 
 # Screenshot
-![Tamer Portfolio screenshot](<Screenshot 2023-12-20 at 23.13.04.png>)
+![Tamer Portfolio screenshot](<Website Screenshot.png>)
+
+
 
 
 # Link
