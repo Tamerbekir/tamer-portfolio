@@ -29,7 +29,7 @@ This is a portfolio that includes the works/projects of Tamer Bekir. This site i
 
 
 # Link
-<a href="https://tamerbekir.github.io/tamer-portfolio/" Tamer Portfolio</a>
+<a href="https://tamerbekir.github.io/tamer-portfolio/"> Tamer Portfolio</a>
 
 
 # Credit 
