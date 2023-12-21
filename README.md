@@ -19,3 +19,10 @@ WHEN I click on the images of the applications<br>
 THEN I am taken to that deployed application<br>
 WHEN I resize the page or view the site on various screens and devices<br>
 THEN I am presented with a responsive layout that adapts to my viewport<br>
+
+
+
+## Credit 
+<a href="https://www.freepik.com/free-vector/stream-binary-code-design_13311414.htm#query=coding%20background&position=3&from_view=keyword&track=ais&uuid=fbbf6d6c-fa9a-4fdc-b4f6-cfae61b3f8f5" target="_blank">Coding Background Banner</a>
+
+<a href="https://www.stickergenius.com/shop/custom-bag-stickers-any-size/" target="_blank">Placeholder image</a>
