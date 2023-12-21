@@ -4,13 +4,14 @@
 }
 
 body { 
-    background-color: rgb(198, 198, 198);
+    background-image: linear-gradient(rgba(35, 13, 177, 0.89), rgba(102, 7, 157, 0.529));
+    background-repeat: no-repeat;
 }
 
 Header {
     display: flex;
     flex: 1;
-    background-color: #31343d;
+    background-color: rgba(89, 72, 198, 0.426);
 }
 
 header h1 {
@@ -20,59 +21,50 @@ header h1 {
     margin-left: 20px;
     font-size: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: #9ea7a7;
+    color: rgb(166, 150, 214);
 }
 
 #welcome{
     display: flex;
-    position:relative;
-    left: 100;
+    margin-left: 70%;
     font-size: 25;
     margin-top: -120px;
     border: 3px solid black;
     width: 283px;
-    background-color: rgb(198, 198, 198);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-
-}
-
-.banner h2{
-    display: flex;
-    color: black;
-    font-size: 35px;
-    margin-top: -84px;
-    margin-left: 1129px;
+    background-color: rgba(130, 12, 143, 0.734);
+    color: rgb(166, 150, 214);
 }
 
 
 .banner img{
     display:flex;
     width: 100%;
-    height: 130px;
+    height: 300px;
     margin-bottom: 2%;
-    border-bottom: 5px solid rgb(220, 183, 179);
+    border-bottom: 5px solid rgb(195, 24, 201);
+    border-top: 5px solid rgb(195, 24, 201);
 }
 
 
-nav ul li{
-    position: relative;
+header nav ul li{
     display: flex;
     flex: 1;
     float: left;
 }
 
- a:link{
-    position: relative;
+a{
+    color: rgb(197, 187, 229);}
+
+header a:link{
     flex: 1;
     padding: 15px;
     margin-left: 50;
     font-size: 23px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    color: #9ea7a7;
 }
 
 
-.header a:hover{
+header a:hover{
     color: white;
 }
 
@@ -80,10 +72,11 @@ nav ul li{
     position: relative;
     margin-top: -70;
     margin-left: auto;
-    margin-right: 380;
+    margin-right: 400;
     width: 50%;
     text-wrap: balance;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(197, 187, 229);
 }
 
 .work, #banner-1, #banner-2, #banner-3, #banner-4, #banner-5{
@@ -130,9 +123,9 @@ nav ul li{
     position: relative;
     border: 1px solid black;
     width: 100px;
-    color: red;
+    color: rgb(197, 187, 229);
     margin-left: 50%;
-    background: blue;
+    background: rgba(130, 12, 143, 0.734);
 }
 
 #banner-2, #banner-3, #banner5{
@@ -153,13 +146,14 @@ nav ul li{
 
 /* Margin-top  on Banner-5 does not work when linked with other banners. Will look in to. */
 #banner-5{
-    margin-top: -140px; 
+    margin-top: -145px; 
 }
 
 
 h2{
     position: relative;
-    color: #31343d;
+    top: 35;
+    color: rgb(197, 187, 229);
     margin: 70px;
     margin-right: 75%;
     font-size: 35px;
@@ -177,39 +171,24 @@ h2{
     padding: 15px;
     margin-left: 50;
     font-size: 23px;
-    color: #9ea7a7;
+    color: rgb(243, 242, 247);
 }
 
-
-#contact h2{
-    margin-top: 200;
-    position: relative;
-    border-right: 3px solid #31343d;
-    padding-right: 10;
-    height: 1000;
-}
-
-ul{
+.contact ul{
     text-align: center;
     
 } 
 
+
 nav ul li a:link{
-    position: relative;
-    top: -500;
     text-wrap: balance;
     display: inline;
     font-size: 25px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     flex: 1;
     font-size: 23px;
-    color: #9ea7a7;
+    color: rgb(197, 187, 229);
 }
-
-nav ul li a:hover{
-    color: white;
-}
-
 
 footer{
     text-wrap: balance;
@@ -217,14 +196,10 @@ footer{
     margin-top: 80px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding-bottom: 50px;
+    color: rgb(197, 187, 229);
 }
 
 p{
     font-size: 18px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
-
-
-
-
-
