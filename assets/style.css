@@ -34,8 +34,6 @@ header h1 {
 }
 
 #welcome{
-    display: flex;
-    flex-wrap: wrap;
     margin-left: 70%;
     font-size: 25;
     margin-top: -120px;
@@ -43,6 +41,13 @@ header h1 {
     width: 283px;
     background-color: rgba(130, 12, 143, 0.734);
     color: rgb(166, 150, 214);
+    text-align: center;
+}
+
+#welcome h2{
+    margin-top: -200;
+    display: flex;
+    flex-grow: 0;
 }
 
 
@@ -135,7 +140,6 @@ header a:hover{
 
 #banner-1, #banner-2, #banner-3, #banner-4, #banner-5{
     position: relative;
-    border: 1px solid (130, 12, 143, 0.734);
     width: 150px;
     color: rgb(197, 187, 229);
     margin-left: 50%;
