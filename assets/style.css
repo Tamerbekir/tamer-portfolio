@@ -6,6 +6,7 @@
 body { 
     background-image: linear-gradient(rgba(35, 13, 177, 0.89), rgba(102, 7, 157, 0.529));
     background-repeat: no-repeat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 #headshot{
@@ -28,7 +29,6 @@ header h1 {
     margin: 10px;
     margin-left: 20px;
     font-size: 40px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: rgb(166, 150, 214);
 }
 
@@ -74,7 +74,6 @@ header a:link{
     padding: 15px;
     margin-left: 50;
     font-size: 23px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 
@@ -91,7 +90,6 @@ header a:hover{
     margin-right: 400;
     width: 50%;
     text-wrap: balance;
-    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: rgb(197, 187, 229);
 }
 
@@ -191,8 +189,6 @@ h2{
     text-wrap: balance;
     display: inline;
     font-size: 25px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    flex: 1;
     padding: 15px;
     margin-left: 50;
     font-size: 23px;
@@ -217,7 +213,6 @@ nav ul li a:link{
     text-wrap: balance;
     display: inline;
     font-size: 25px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     flex: 1;
     font-size: 23px;
     color: rgb(197, 187, 229);
@@ -227,12 +222,10 @@ footer{
     text-wrap: balance;
     text-align: center;
     margin-top: 80px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     padding-bottom: 50px;
     color: rgb(197, 187, 229);
 }
 
 p{
     font-size: 18px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
