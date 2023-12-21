@@ -20,10 +20,10 @@ WHEN I resize the page or view the site on various screens and devices<br>
 THEN I am presented with a responsive layout that adapts to my viewport<br>
 
 # Description
-This is a portfolio which includes the works/projects of Tamer Bekir. This site includes the current, as well as future links to upcoming projects. So far, there is only active image which directs the user to the first project. It also holds navigational links that will take you directly to said links- these links will then take you to the correct sites. This page includes Tamer's contact information, such email, social media account(s), github and a downloadable resume that is able to be saved directly to a machine. All images have been credits before. 
+This is a portfolio that includes the works/projects of Tamer Bekir. This site includes the current, as well as future links to upcoming projects. So far, there is only an active image that directs the user to the first project. It also holds navigational links that will take you directly to said links- these links will then take you to the correct sites. This page includes Tamer's contact information, such as email, social media account(s), GitHub, and a downloadable resume that can be saved directly to a machine. All images have been credited before. 
 
 # Screenshot
-![Tamer Protfolio screenshot](<Screenshot 2023-12-20 at 23.13.04.png>)
+![Tamer Portfolio screenshot](<Screenshot 2023-12-20 at 23.13.04.png>)
 
 
 # Link
