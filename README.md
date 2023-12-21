@@ -1,10 +1,9 @@
 # User Story
 
-AS AN employer <br>
-I WANT to view a potential employee's deployed portfolio of work samples
-SO THAT I can review samples of their work and assess whether they're a good candidate for an open position
+AS AN employer I WANT to view a potential employee's deployed portfolio of work samples<br>
+SO THAT I can review samples of their work and assess whether they're a good candidate for an open position<br>
 
-## Acceptance Criteria
+# Acceptance Criteria
 
 GIVEN I need to sample a potential employee's previous work<br>
 WHEN I load their portfolio<br>
@@ -20,9 +19,18 @@ THEN I am taken to that deployed application<br>
 WHEN I resize the page or view the site on various screens and devices<br>
 THEN I am presented with a responsive layout that adapts to my viewport<br>
 
+# Description
+This is a portfolio which includes the works/projects of Tamer Bekir. This site includes the current, as well as future links to upcoming projects. It also holds navigational 
+
+# Screenshot
+![Screeshot of portfolio](<PNG image.png>)
 
 
-## Credit 
-<a href="https://www.freepik.com/free-vector/stream-binary-code-design_13311414.htm#query=coding%20background&position=3&from_view=keyword&track=ais&uuid=fbbf6d6c-fa9a-4fdc-b4f6-cfae61b3f8f5" target="_blank">Coding Background Banner</a>
+# Link
 
+
+# Credit 
+<a href="https://www.freepik.com/free-vector/stream-binary-code-design_13311414.htm#query=coding%20background&position=3&from_view=keyword&track=ais&uuid=fbbf6d6c-fa9a-4fdc-b4f6-cfae61b3f8f5" target="_blank">Coding Background Banner image</a>
 <a href="https://www.stickergenius.com/shop/custom-bag-stickers-any-size/" target="_blank">Placeholder image</a>
+<a href="https://www.axelerant.com/blog/code-refactoring-101-quick-guide-get-started" target="_blank">Code Refactor image</a>
+

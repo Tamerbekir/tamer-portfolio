@@ -114,6 +114,8 @@ header a:hover{
     margin: 10px;
     display: flex; 
     border: 5px black solid;
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 5px 10px 10px 0px black;
 
 }
 
@@ -135,23 +137,32 @@ header a:hover{
 
 #banner-1, #banner-2, #banner-3, #banner-4, #banner-5{
     position: relative;
-    border: 1px solid black;
-    width: 100px;
+    border: 1px solid (130, 12, 143, 0.734);
+    width: 150px;
     color: rgb(197, 187, 229);
     margin-left: 50%;
     background: rgba(130, 12, 143, 0.734);
+    border-radius: 10px 10px 10px 10px;
+    box-shadow: 5px 10px 10px 0px rgb(0, 0, 0);
+    text-align: center;
 }
 
-#banner-2, #banner-3, #banner5{
+
+#banner-2{
     margin-top: -145px;
 }
 
+#banner-3{
+    margin-top: -141px;
+}
+
+/* Some banners not lined up properly. Will fix */
 #banner-3, #banner-4, #banner-5{
-    left: -310px;
+    left: -315px;
 }
 
 #banner-1{
-    margin-top: -34px;
+    margin-top: -32px;
 }
 
 #banner-4{
