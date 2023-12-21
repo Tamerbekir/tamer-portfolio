@@ -20,17 +20,17 @@ WHEN I resize the page or view the site on various screens and devices<br>
 THEN I am presented with a responsive layout that adapts to my viewport<br>
 
 # Description
-This is a portfolio which includes the works/projects of Tamer Bekir. This site includes the current, as well as future links to upcoming projects. It also holds navigational 
+This is a portfolio which includes the works/projects of Tamer Bekir. This site includes the current, as well as future links to upcoming projects. So far, there is only active image which directs the user to the first project. It also holds navigational links that will take you directly to said links- these links will then take you to the correct sites. This page includes Tamer's contact information, such email, social media account(s), github and a downloadable resume that is able to be saved directly to a machine. All images have been credits before. 
 
 # Screenshot
-![Screeshot of portfolio](<PNG image.png>)
+![Tamer Protfolio screenshot](<Screenshot 2023-12-20 at 23.13.04.png>)
 
 
 # Link
 
 
 # Credit 
-<a href="https://www.freepik.com/free-vector/stream-binary-code-design_13311414.htm#query=coding%20background&position=3&from_view=keyword&track=ais&uuid=fbbf6d6c-fa9a-4fdc-b4f6-cfae61b3f8f5" target="_blank">Coding Background Banner image</a>
-<a href="https://www.stickergenius.com/shop/custom-bag-stickers-any-size/" target="_blank">Placeholder image</a>
-<a href="https://www.axelerant.com/blog/code-refactoring-101-quick-guide-get-started" target="_blank">Code Refactor image</a>
+<a href="https://www.freepik.com/free-vector/stream-binary-code-design_13311414.htm#query=coding%20background&position=3&from_view=keyword&track=ais&uuid=fbbf6d6c-fa9a-4fdc-b4f6-cfae61b3f8f5" target="_blank">Coding Background Banner image</a><br>
+<a href="https://www.stickergenius.com/shop/custom-bag-stickers-any-size/" target="_blank">Placeholder image</a><br>
+<a href="https://www.axelerant.com/blog/code-refactoring-101-quick-guide-get-started" target="_blank">Code Refactor image</a><br>
 
